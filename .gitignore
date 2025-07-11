@@ -27,3 +27,12 @@ Thumbs.db
 
 # Test files
 test_deployment.txt
+
+# Development files (not for public release)
+CLAUDE.md
+DEPLOYMENT.md
+verify_deployment.sh
+*.png
+*.jpg
+*.jpeg
+*.gif
